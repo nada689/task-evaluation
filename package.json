@@ -1,8 +1,7 @@
 {
   "name": "task-managemnt-system-react-project",
   "version": "0.1.0",
-  "private": true,
-  "main": "",
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
