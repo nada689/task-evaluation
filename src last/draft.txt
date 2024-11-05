@@ -1,9 +1,0 @@
-{
-    
-"selfDescipline":{"selfDesciplineGrade":"","mindfullnessMomuntes":""},
-"desiresControl":{"desiresControlGrade":"","curbingCravings":""},
-"procastination":true
-,"procrastinated":{"when":"","why":""}
-,"growthPoints":[],
-"obstacleDetails":{"category":"","obstacleDescription":"","potentialSolutions":[]}
-}
